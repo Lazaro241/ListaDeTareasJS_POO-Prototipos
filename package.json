@@ -1,0 +1,15 @@
+{
+  "name": "listadetareasjs_poo-prototipos",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lazarosanchez",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "listadetareasjs_poo-prototipos": "file:"
+  }
+}
